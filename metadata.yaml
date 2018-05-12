@@ -1,4 +1,8 @@
 _repo: Teatro-galante_48670
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48670-h/images/cover.jpg
 creator:
   author:
     agent_name: Zamacois, Eduardo
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26175
     wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48670#Teatro-galante
 gutenberg_issued: '2015-04-09'
 gutenberg_type: Text
 identifiers:
